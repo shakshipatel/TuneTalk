@@ -36,6 +36,3 @@ This project allows users to sign up, browse songs, create playlists, and enjoy 
 **Music Playback**
 - HTML5 Audio API
 - HLS.js (for streaming support)
-
----
-
