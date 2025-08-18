@@ -1,7 +1,6 @@
 # 🎵 Spotify Clone
 
-A full-stack music streaming application inspired by Spotify.  
-This project allows users to sign up, browse songs, create playlists, and enjoy music with a sleek, responsive UI.
+A full-stack music streaming application inspired by Spotify. This project allows users to sign up, browse songs, create playlists, and enjoy music with a sleek, responsive UI.
 
 ## 🚀 Features
 
