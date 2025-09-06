@@ -31,7 +31,8 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://tune-talk-henna.vercel.app"
+      "https://tune-talk-henna.vercel.app",
+	  "https://joblyfi.com"
     ],
     credentials: true,
   })
