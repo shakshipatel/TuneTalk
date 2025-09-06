@@ -31,7 +31,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://tune-talk-4id4.vercel.app"
+      "https://tune-talk-henna.vercel.app"
     ],
     credentials: true,
   })
