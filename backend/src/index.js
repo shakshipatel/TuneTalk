@@ -32,7 +32,8 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://tune-talk-henna.vercel.app",
-	  "https://joblyfi.com"
+	  "https://joblyfi.com",
+	  "https://www.joblyfi.com"
     ],
     credentials: true,
   })
