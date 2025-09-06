@@ -3,8 +3,6 @@
 A full-stack music streaming application inspired by Spotify.  
 This project allows users to sign up, browse songs, create playlists, and enjoy music with a sleek, responsive UI.
 
----
-
 ## 🚀 Features
 
 - 🔐 **User Authentication** – Sign up, log in, and manage accounts securely
@@ -14,8 +12,6 @@ This project allows users to sign up, browse songs, create playlists, and enjoy 
 - 🎛 **Music Player** – Play, pause, skip, shuffle, repeat
 - 📱 **Responsive Design** – Works on desktop, tablet, and mobile
 - 🌙 **Dark Mode** – User-friendly UI with theme toggle
-
----
 
 ## 🛠 Tech Stack
 
@@ -36,6 +32,3 @@ This project allows users to sign up, browse songs, create playlists, and enjoy 
 **Music Playback**
 - HTML5 Audio API
 - HLS.js (for streaming support)
-
----
-
