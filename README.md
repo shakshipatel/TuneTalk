@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone
+# 🎵 TuneTalk/Joblify
 
 A full-stack music streaming application inspired by Spotify. This project allows users to sign up, browse songs, create playlists, and enjoy music with a sleek, responsive UI.
 
