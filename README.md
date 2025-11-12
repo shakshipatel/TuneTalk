@@ -1,5 +1,9 @@
 # 🎵 TuneTalk/Joblify
 
+<p align="center">
+  <img src="./thumbnail.png" alt="Task Management Application Banner" width="100%" />
+</p>
+
 A full-stack music streaming application inspired by Spotify. This project allows users to sign up, browse songs, create playlists, and enjoy music with a sleek, responsive UI.
 
 ## 🚀 Features
