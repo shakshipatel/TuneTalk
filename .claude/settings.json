@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(npm run *)",
-      "Read(//c/Users/Prashant/AppData/Local/Temp/claude/c--Users-Prashant-Desktop-Personal-TuneTalk/9cbf35a1-3394-4cee-b901-63d4c89bab1a/tasks/**)"
+      "Read(//c/Users/Prashant/AppData/Local/Temp/claude/c--Users-Prashant-Desktop-Personal-TuneTalk/9cbf35a1-3394-4cee-b901-63d4c89bab1a/tasks/**)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }
