@@ -13,7 +13,19 @@ import NotFoundPage from "./pages/404/NotFoundPage";
 function App() {
 	return (
 		<>
-			<div>my name is shakshi</div>
+			<Routes>
+				<Route path="/auth-callback" element={<AuthCallbackPage />} />
+				<Route path="/sso-callback" element={<AuthenticateWithRedirectCallback />} />
+
+				<Route element={<MainLayout />}>
+					<Route path="/" element={<HomePage />} />
+					<Route path="/album/:id" element={<AlbumPage />} />
+					<Route path="/chat" element={<ChatPage />} />
+					<Route path="/admin" element={<AdminPage />} />
+					<Route path="*" element={<NotFoundPage />} />
+				</Route>
+			</Routes>
+			<Toaster />
 		</>
 	);
 }
