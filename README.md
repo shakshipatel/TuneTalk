@@ -20,6 +20,7 @@ A full-stack, Spotify-inspired music streaming application that lets users sign 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#sceenshots)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
@@ -46,6 +47,15 @@ The platform provides:
 - A **responsive, mobile-first design** that works seamlessly across all devices
 - **Real-time playback controls** with shuffle, repeat, and queue management
 - **Dark mode** for comfortable viewing at any time
+
+---
+
+## Screenshots
+
+### Product Preview
+
+![Product Preview](./thumbnail.png)
+*Full-width hero section with product preview.*
 
 ---
 
