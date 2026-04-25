@@ -19,7 +19,7 @@ A full-stack music streaming application inspired by Spotify. This project allow
 ## 🛠 Tech Stack
 
 **Frontend**
-- React.js (or Next.js)
+- React.js
 - Tailwind CSS
 - Context API / Redux
 - React Router
